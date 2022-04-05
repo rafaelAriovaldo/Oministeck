@@ -1,17 +1,25 @@
 {
-    "name": "oministeck",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node src/Oministeck/index.js"
-
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.17.3"
-    }
+  "name": "oministeck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/Oministeck/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelAriovaldo/Oministeck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafaelAriovaldo/Oministeck/issues"
+  },
+  "homepage": "https://github.com/rafaelAriovaldo/Oministeck#readme",
+  "description": ""
 }
